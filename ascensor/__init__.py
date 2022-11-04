@@ -12,4 +12,3 @@ while True:
     print("Plantas pasadas:", distancia)
     
 print("Resultado final =", distancia)
-    
